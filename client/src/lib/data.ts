@@ -141,8 +141,8 @@ export const companyInfo = {
   description: "At Office and Body Lab, we've reimagined professional spaces by creating a seamless blend of wellness and work. Our unique facility offers premium spa services, expert barbing, and thoughtfully designed workspaces under one roof, allowing you to prioritize self-care while staying productive.",
   founded: "2020",
   address: "20 Ahoda road, Rumuibekwe, Port Harcourt, Rivers State",
-  phone: "(212) 555-1234",
-  email: "info@spabodyofficehub.com",
+  phone: "+234 803 123 4567",
+  email: "info@officeandbodylab.com",
   hours: {
     monday: "7:00 AM - 9:00 PM",
     tuesday: "7:00 AM - 9:00 PM",
