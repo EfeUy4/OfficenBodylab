@@ -146,6 +146,13 @@ const ServiceGrid = ({ services, isLoading }: ServiceGridProps) => {
     );
   }
   
+  // For demonstration purposes, we'll set some services as unavailable
+  // In a real app, this would come from the backend
+  const getAvailability = (serviceId: number) => {
+    // Make some services unavailable for demonstration
+    return serviceId % 3 !== 0; // Every third service will be unavailable
+  };
+  
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {services.map((service) => (
@@ -157,6 +164,7 @@ const ServiceGrid = ({ services, isLoading }: ServiceGridProps) => {
           price={service.price}
           duration={service.duration}
           imageUrl={service.imageUrl}
+          isAvailable={getAvailability(service.id)}
         />
       ))}
     </div>
