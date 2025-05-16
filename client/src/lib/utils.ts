@@ -6,7 +6,7 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export function formatCurrency(amount: number): string {
-  return `$${(amount / 100).toFixed(2)}`;
+  return `₦${(amount / 100).toFixed(2)}`;
 }
 
 export function formatDate(date: Date): string {

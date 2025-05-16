@@ -140,7 +140,7 @@ export const companyInfo = {
   tagline: "Your Wellness & Workspace Sanctuary",
   description: "At Spa, Body & Office Hub, we've reimagined professional spaces by creating a seamless blend of wellness and work. Our unique facility offers premium spa services, expert barbing, and thoughtfully designed workspaces under one roof, allowing you to prioritize self-care while staying productive.",
   founded: "2020",
-  address: "123 Wellness Avenue, Suite 200, New York, NY 10001",
+  address: "20 Ahoda road, Rumuibekwe, Port Harcourt, Rivers State",
   phone: "(212) 555-1234",
   email: "info@spabodyofficehub.com",
   hours: {
