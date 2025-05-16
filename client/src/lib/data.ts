@@ -136,9 +136,9 @@ export const teamMembers = [
 
 // Company info
 export const companyInfo = {
-  name: "Spa, Body & Office Hub",
+  name: "Office and Body Lab",
   tagline: "Your Wellness & Workspace Sanctuary",
-  description: "At Spa, Body & Office Hub, we've reimagined professional spaces by creating a seamless blend of wellness and work. Our unique facility offers premium spa services, expert barbing, and thoughtfully designed workspaces under one roof, allowing you to prioritize self-care while staying productive.",
+  description: "At Office and Body Lab, we've reimagined professional spaces by creating a seamless blend of wellness and work. Our unique facility offers premium spa services, expert barbing, and thoughtfully designed workspaces under one roof, allowing you to prioritize self-care while staying productive.",
   founded: "2020",
   address: "20 Ahoda road, Rumuibekwe, Port Harcourt, Rivers State",
   phone: "(212) 555-1234",

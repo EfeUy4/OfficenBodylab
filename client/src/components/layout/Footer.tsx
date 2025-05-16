@@ -40,7 +40,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-playfair font-semibold mb-6">Spa, Body & Office Hub</h3>
+            <h3 className="text-xl font-playfair font-semibold mb-6">Office and Body Lab</h3>
             <p className="text-white/70 mb-6">
               Your integrated wellness and workspace destination where relaxation meets productivity.
             </p>
@@ -105,7 +105,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-white/20 mt-12 pt-8 text-center text-white/50">
-          <p>&copy; {new Date().getFullYear()} Spa, Body & Office Hub. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Office and Body Lab. All rights reserved.</p>
         </div>
       </div>
     </footer>
